@@ -12,5 +12,3 @@ cv_analyzer/
 │   ├── tasks.py          # CrewAI tasks definition
 │   ├── ui.py             # Streamlit UI components
 │   └── utils.py          # Helper functions
-└── tests/                # Test files
-    └── __init__.py
