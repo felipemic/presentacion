@@ -2,8 +2,6 @@ cv_analyzer/
 ├── .env                  # Environment variables
 ├── README.md             # Project documentation
 ├── requirements.txt      # Dependencies list
-├── assets/
-│   └── cyborg.png        # Logo image
 ├── src/
 │   ├── __init__.py
 │   ├── main.py           # Main application entry point
